@@ -1,2 +1,2 @@
 #!/bin/bash
- chmode -R 664 hello: olleh
+ chmode  354 hello
